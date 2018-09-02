@@ -5,3 +5,6 @@ What was the sex ratio of participants in Olympics?
 What was the distribution of age of participants who had won medals in olympics?
 Who were top 10 countries(teams), sports and athlets during most recent Olympic?
 What was the ratio of different medals won in Olympics?
+
+
+PLease click on the images for the visualization.
