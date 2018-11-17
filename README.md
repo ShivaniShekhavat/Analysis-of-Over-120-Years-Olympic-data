@@ -7,4 +7,4 @@ Who were top 10 countries(teams), sports and athlets during most recent Olympic?
 What was the ratio of different medals won in Olympics?
 
 
-PLease click on the images for the visualization.
+Please click on the images for the visualization.
