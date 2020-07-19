@@ -8,3 +8,6 @@ What was the ratio of different medals won in Olympics?
 
 
 Please click on the images for the visualization.
+<br>
+![](Worldcloud.png?raw=true)
+<br>
